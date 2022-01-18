@@ -1,10 +1,10 @@
 import './App.css';
-import LongPulling from "./longPulling";
+import WebSock from "./WebSock";
 
 function App() {
   return (
     <div>
-      <LongPulling/>
+      <WebSock/>
     </div>
   );
 }
